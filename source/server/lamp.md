@@ -19,9 +19,11 @@
 - `sudo mariadb`
 - `use my_db_name;`
 - Update table : 
-```sql UPDATE wp_options 
+```sql
+UPDATE wp_options 
 SET option_value = 'url'
-WHERE option_name = 'siteurl';```
+WHERE option_name = 'siteurl';
+```
 - repeat with `home` option_name
 
 ## Apache
