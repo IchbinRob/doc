@@ -37,3 +37,6 @@ Chemin n'est pas /boot/loader mais /efi/loader sous Endeavour
 
 ### Ordi avec GPU intégré et dédié (aka ordi portable)
  - Forcer le lancement d'une application sur le GPU dédié : `__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia`
+
+## Troubleshooting
+[NTFS parition doesn't mount](https://wiki.archlinux.org/title/NTFS#Unable_to_mount_with_ntfs3_with_partition_marked_dirty)
