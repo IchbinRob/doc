@@ -21,4 +21,8 @@ Spiralis Doc documentation
    server/lamp
    server/ovh-vps
    server/docker-lamp
+   server/disk-management
+   server/rockylinux.md
+   server/servarr.md
+   server/yunohost.md
     

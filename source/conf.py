@@ -17,7 +17,7 @@ extensions = ['myst_parser']
 source_suffix = ['.rst', '.md']
 templates_path = ['_templates']
 exclude_patterns = []
-
+myst_heading_anchors = 3
 language = 'fr'
 
 # -- Options for HTML output -------------------------------------------------
